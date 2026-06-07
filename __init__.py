@@ -1,1 +1,1 @@
-# ui package — Streamlit UI layer
+# engine package — IntervalTree algorithm + scoring
